@@ -1,8 +1,8 @@
 🌿 EcoMoney — Dashboard Financeiro Inteligente
 
-EcoMoney é uma aplicação web desenvolvida em Python, Dash e Dash Bootstrap Components, com o objetivo de oferecer um painel financeiro intuitivo, rápido e responsivo para controle de receitas, despesas e visualização de gráficos dinâmicos.
+EcoMoney é uma aplicação web desenvolvida em Python, Dash e Dash Bootstrap Components, criada para oferecer um painel financeiro intuitivo, rápido e responsivo — ideal para acompanhar receitas, despesas e visualizar gráficos dinâmicos de forma simples e eficiente.
 
-O foco do EcoMoney é simplicidade, organização e clareza visual — ideal para quem quer acompanhar suas finanças de forma eficiente.
+O foco do EcoMoney é simplicidade, organização e clareza visual.
 
 🚀 Tecnologias Utilizadas
 
@@ -45,15 +45,15 @@ Edição e exclusão
 
 Categorização
 
-✔️ Gráficos interativos
+✔️ Gráficos Interativos
 
 Gráfico de barras
 
 Gráfico de linhas
 
-Gráfico pizza (categorias)
+Gráfico de pizza (categorias)
 
-✔️ Layout responsivo (bootstrap)
+✔️ Layout Responsivo (Bootstrap)
 
 Funciona perfeitamente em:
 
