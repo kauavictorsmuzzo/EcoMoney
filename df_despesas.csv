@@ -1,0 +1,11 @@
+,Valor,Efetuado,Fixo,Data,Categoria,Descrição
+0,2200,1,1,2024-01-05,Aluguel,Aluguel do apartamento
+1,450,1,1,2024-01-06,Internet,Plano de internet fibra
+2,160,1,1,2024-01-10,Luz,Conta de energia
+3,90,1,1,2024-01-12,Água,Conta de água
+4,620,1,0,2024-01-15,Mercado,Compras do mês
+5,120,1,0,2024-01-18,Alimentação,Pedido de comida
+6,60,1,0,2024-01-20,Transporte,Uber para trabalho
+7,45,1,0,2024-01-22,Saúde,Remédio para gripe
+8,80,1,0,2024-01-25,Lazer,Assinatura de streaming
+9,150,1,0,2024-01-28,Compras,Papelaria e itens pessoais
