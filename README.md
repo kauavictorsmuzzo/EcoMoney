@@ -68,7 +68,7 @@ Mobile
 pip install -r requirements.txt
 
 2️⃣ Execute a aplicação
-python index.py
+python myindex.py
 
 3️⃣ Acesse no navegador
 http://127.0.0.1:8050
